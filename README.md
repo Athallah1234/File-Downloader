@@ -41,5 +41,9 @@ A simple file downloader application built using Tkinter in Python.
 5. View download progress in the console and log window.
 6. Optionally, click the "Open Log" button to view a detailed download log.
 
+## Contributors
+[Athallah1234](https://github.com/Athallah1234)
+[Other Contributor]()
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
