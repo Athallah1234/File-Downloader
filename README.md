@@ -41,6 +41,10 @@ A simple file downloader application built using Tkinter in Python.
 5. View download progress in the console and log window.
 6. Optionally, click the "Open Log" button to view a detailed download log.
 
+## Frequently Asked Questions (FAQs)
+
+For answers to common questions about the File Downloader App, please refer to our [FAQs](FAQs.md).
+
 ## Contributors
 [Athallah1234](https://github.com/Athallah1234)
 [Other Contributor]()
