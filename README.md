@@ -1,17 +1,45 @@
 # File Downloader App
 
-This is a simple file downloader application built using Tkinter in Python. The application allows users to input a file URL, choose a destination folder, and download the file with the option to pause and resume the download. It also provides a log of the download progress and allows users to open the log in a separate window.
+A simple file downloader application built using Tkinter in Python.
 
 ## Features
-- **Download**: Enter the file URL and destination folder, then click the "Download" button to start the download.
-- **Pause/Resume**: Pause the download at any time and resume it later.
-- **Log**: View a log of the download progress, including timestamps and additional information.
-- **Exit**: Close the application.
 
+- Download files from a specified URL to a chosen destination folder.
+- Pause and resume downloads.
+- View download progress, including percentage, downloaded size, and download speed.
+- Log download information with timestamps.
+- User-friendly graphical interface.
+
+## Getting Started
+
+### Prerequisites
+
+- Python 3.x
+- Tkinter (usually included with Python installations)
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/file-downloader-app.git
+   ```
+2. Change into the project directory:
+   ```bash
+   cd file-downloader-app
+   ```
+4. Run the application:
+   ```bash
+   python file_downloader.py
+   ```
 ## Usage
-1. Clone the repository to your local machine.
-2. Run the `file_downloader.py` script using Python.
 
-```bash
-python file_downloader.py
-```
+1. Enter the file URL in the provided entry field.
+2. Browse and select the destination folder for the downloaded file.
+3. Click the "Download" button to start the download.
+4. Use the "Pause" button to pause the download, and "Resume" to resume.
+5. View download progress in the console and log window.
+6. Optionally, click the "Open Log" button to view a detailed download log.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
