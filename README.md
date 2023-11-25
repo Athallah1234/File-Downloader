@@ -58,7 +58,7 @@ If you'd like to contribute to the project, follow the [Contributing Guide](CONT
 
 ## Contributors
 [Athallah1234](https://github.com/Athallah1234)
-[Other Contributor]()
+[Other Contributor](OTHER_CONTRIBUTOR.md)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
