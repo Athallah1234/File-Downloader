@@ -48,6 +48,10 @@ For answers to common questions about the File Downloader App, please refer to o
 ## Troubleshooting
 If you encounter any problems while using the File Downloader App, please check the [Troubleshooting](TROUBLESHOOTING.md) guide for common issues and solutions.
 
+## Contributing
+
+If you'd like to contribute to the project, follow the [Contributing Guide](CONTRIBUTING.md) to submit a pull request. Your contributions are highly appreciated!
+
 ## Contributors
 [Athallah1234](https://github.com/Athallah1234)
 [Other Contributor]()
