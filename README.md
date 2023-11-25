@@ -14,7 +14,7 @@ A simple file downloader application built using Tkinter in Python.
 
 ### Prerequisites
 
-- Python 3.x
+- [Python 3.x](https://www.python.org/downloads/)
 - Tkinter (usually included with Python installations)
 
 ### Installation
@@ -27,6 +27,10 @@ A simple file downloader application built using Tkinter in Python.
 2. Change into the project directory:
    ```bash
    cd file-downloader-app
+   ```
+3. Install Dependencies:
+   ```bash
+   pip install -r requirements.txt
    ```
 4. Run the application:
    ```bash
