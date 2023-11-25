@@ -45,6 +45,9 @@ A simple file downloader application built using Tkinter in Python.
 
 For answers to common questions about the File Downloader App, please refer to our [FAQs](FAQs.md).
 
+## Troubleshooting
+If you encounter any problems while using the File Downloader App, please check the [Troubleshooting](TROUBLESHOOTING.md) guide for common issues and solutions.
+
 ## Contributors
 [Athallah1234](https://github.com/Athallah1234)
 [Other Contributor]()
