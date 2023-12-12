@@ -20,7 +20,6 @@ A simple file downloader application built using Tkinter in Python.
 ### Installation
 
 1. Clone the repository:
-
    ``bash
    git clone https://github.com/your-username/file-downloader-app.git
    ``
