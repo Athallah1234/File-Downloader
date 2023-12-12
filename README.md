@@ -21,21 +21,21 @@ A simple file downloader application built using Tkinter in Python.
 
 1. Clone the repository:
 
-   ```bash
+   ``bash
    git clone https://github.com/your-username/file-downloader-app.git
-   ```
+   ``
 2. Change into the project directory:
-   ```bash
+   ``bash
    cd file-downloader-app
-   ```
+   ``
 3. Install Dependencies:
-   ```bash
+   ``bash
    pip install -r requirements.txt
-   ```
+   ``
 4. Run the application:
-   ```bash
+   ``bash
    python file_downloader.py
-   ```
+   ``
 ## Usage
 
 1. Enter the file URL in the provided entry field.
